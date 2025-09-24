@@ -1,6 +1,14 @@
 {
-  "licenses": [
-    "20251015-ABCD-1234-EFGH-5678",
-    "20250930-F3A9C7B2-1E8D-AB12-CD34-EF56-GH78"
-  ]
+  "20251024-AB12-CD34-EF56-GH78": {
+    "username": "demo_user",
+    "expiry": "2025-10-24T11:21:11"
+  },
+  "20251123-JK90-LM12-NO34-PQ56": {
+    "username": "demo_user",
+    "expiry": "2025-11-23T11:21:11"
+  },
+  "20251223-RS78-TU90-VW12-XY34": {
+    "username": "demo_user",
+    "expiry": "2025-12-23T11:21:11"
+  }
 }
